@@ -1,4 +1,9 @@
-# Task description
+## How to run
+Clone repository with `git clone <repository url>`  
+Run `npm install`  
+To run the tests type `npm run test`
+
+## Task description
 
 Launch URL: https://www.saucedemo.com/
 
